@@ -1,5 +1,15 @@
 
 
+
+// resetting the game
+function(resetGame()){
+  
+
+}
+
+
+
+
 // determining if game is running
 document.onkeypress = keyPressed;
   function keyPressed(event) {
